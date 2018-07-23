@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 19 14:35:36 2018
-
-@author: oscarp
-"""
 
 from pprint import pprint
 
